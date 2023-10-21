@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+header{
+    position: fixed;
+    width: 100%;
+}
+#mainHeading{
+    text-align: center;
+    background-color: aquamarine;
+    margin: 0;
+    font-family: calibri, 'Gill Sans', 'Gill Sans MT',  'Trebuchet MS', sans-serif;
+    font-weight:800;
+    font-size: 2.2em;
+}
+#nav{
+    background-color: aqua;
+    margin: 0;
+    padding: 1em;
+    text-align: center;
+}
+.navItems{
+    display: inline;
+    margin:1%
+}
+main{
+    padding-top: 2000px;
+}
